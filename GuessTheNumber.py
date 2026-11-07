@@ -1,3 +1,5 @@
+### I know it asks you to quit everytime, it is intentional.###
+
 from random import randint
 import sys
 import time
